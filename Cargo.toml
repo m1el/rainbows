@@ -9,7 +9,7 @@ license = "MIT"
 
 [dependencies]
 csv = "1.1"
-image = "0.22.3"
+image = "0.23.12"
 palette = "0.4.1"
 rand = "0.7.2"
 rayon = "1.1"
